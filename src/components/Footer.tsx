@@ -5,7 +5,7 @@ function Footer() {
         <p className="text-sm">
           Coded by
           <a
-            href="https://www.linkedin.com/in/codepapa360"
+            href="https://www.linkedin.com/in/CodeWithAlamin"
             target="_blank"
             className="text-cyan-500 transition-colors duration-200 ease-in-out hover:text-cyan-400 underline px-1"
           >
@@ -13,7 +13,7 @@ function Footer() {
           </a>
           & Challenge by
           <a
-            href="https://www.frontendmentor.io/profile/CodePapa360"
+            href="https://www.frontendmentor.io/profile/CodeWithAlamin"
             target="_blank"
             className="text-cyan-500 transition-colors duration-200 ease-in-out hover:text-cyan-400 underline px-1"
           >

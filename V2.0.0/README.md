@@ -2,17 +2,17 @@
 
 <h2 align="center">
 
-[🖱️Live Website](https://rps-game-v2-codepapa360.vercel.app)
+[🖱️Live Website](https://rps-game-v2-alamin.vercel.app)
 
 </h2>
 
 <!-- Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/CodePapa360)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CodePapa360?style=for-the-badge&logo=x)](https://x.com/CodePapa360)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/CodeWithAlamin)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CodeWithAlamin?style=for-the-badge&logo=x)](https://x.com/CodeWithAlamin)
 
-![version](https://img.shields.io/github/package-json/v/CodePapa360/Rock-Paper-Scissors?color=blue)
+![version](https://img.shields.io/github/package-json/v/CodeWithAlamin/Rock-Paper-Scissors?color=blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 </div>
@@ -23,7 +23,7 @@ Initially built with vanilla TypeScript, the Rock, Paper, Scissors game is now u
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://rps-game-v2-codepapa360.vercel.app">
+<a align="center" href="https://rps-game-v2-alamin.vercel.app">
 
 ![Screenshot](./public/images/rps-game-thumbnail.webp)
 
@@ -42,7 +42,7 @@ Initially built with vanilla TypeScript, the Rock, Paper, Scissors game is now u
 
 ### Links
 
-- Live Site URL: [Click here](https://rps-game-v2-codepapa360.vercel.app)
+- Live Site URL: [Click here](https://rps-game-v2-alamin.vercel.app)
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/rock-paper-scissors-game-with-typescript-fe6IN10Ent)
 
 ### The challenge
@@ -75,7 +75,7 @@ I plan to continue enhancing this project by incorporating **Framer Motion**. Th
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Rock-Paper-Scissors.git
+git clone https://github.com/CodeWithAlamin/Rock-Paper-Scissors.git
 ```
 
 - Install dependencies:
@@ -100,10 +100,10 @@ npm run build
 
 <b>👤 Alamin</b>
 
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- GitHub: [@CodePapa360](https://github.com/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- GitHub: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
